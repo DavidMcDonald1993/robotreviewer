@@ -103,3 +103,5 @@ robotreviewer/config.json
 
 .env
 !.envTemplate
+
+/robotreviewer/data/scibert_scivocab_uncased

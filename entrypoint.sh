@@ -11,7 +11,8 @@ case "$OPTS" in
 
 celery)
     echo "[entrypoint.sh] Starting Celery"
-    cd /var/lib/deploy/ && celery -A robotreviewer.ml_worker worker --loglevel=info --concurrency=1 --pool=solo --uid=1000
+    # cd /var/lib/deploy/ && celery -A robotreviewer.ml_worker worker --loglevel=info --concurrency=1 --pool=solo --uid=1000
+    cd /var/lib/deploy/ && celery -A robotreviewer.ml_worker worker --loglevel=info --concurrency=1 --pool=solo
     ;;
 web)
     echo "[entrypoint.sh] Starting background cleanup task"

@@ -4,17 +4,18 @@ version: "3.7"
 services:
 
   web:
-    image: robotreviewer
-    build:
-      context: .
-      dockerfile: Dockerfile
+    image: davidmcdonald93/docker-remote:robotreviewer
+    # build:
+    #   context: .
+    #   dockerfile: Dockerfile
     env_file:
       - .env
     volumes:
       - ./robotreviewer/data:/var/lib/deploy/robotreviewer/data
-    configs:
-      - source: rr-config
-        target: /var/lib/deploy/config.json
+      - ./robotreviewer/config.json:/var/lib/deploy/config.json
+    # configs:
+    #   - source: rr-config
+    #     target: /var/lib/deploy/config.json
     restart: unless-stopped
     command: web
     ports:
@@ -23,17 +24,18 @@ services:
       - celery
 
   api:
-    image: robotreviewer
-    build:
-      context: .
-      dockerfile: Dockerfile
+    image: davidmcdonald93/docker-remote:robotreviewer
+    # build:
+    #   context: .
+    #   dockerfile: Dockerfile
     env_file:
       - .env
     volumes:
       - ./robotreviewer/data:/var/lib/deploy/robotreviewer/data
-    configs:
-      - source: rr-config
-        target: /var/lib/deploy/config.json
+      - ./robotreviewer/config.json:/var/lib/deploy/config.json
+    # configs:
+    #   - source: rr-config
+    #     target: /var/lib/deploy/config.json
     restart: unless-stopped
     command: api
     ports:
@@ -42,17 +44,18 @@ services:
       - celery
 
   celery:
-    image: robotreviewer
-    build:
-      context: .
-      dockerfile: Dockerfile
+    image: davidmcdonald93/docker-remote:robotreviewer
+    # build:
+    #   context: .
+    #   dockerfile: Dockerfile
     env_file:
       - .env
     volumes:
       - ./robotreviewer/data:/var/lib/deploy/robotreviewer/data
-    configs:
-      - source: rr-config
-        target: /var/lib/deploy/robotreviewer/config.json
+      - ./robotreviewer/config.json:/var/lib/deploy/config.json
+    # configs:
+    #   - source: rr-config
+    #     target: /var/lib/deploy/robotreviewer/config.json
     restart: unless-stopped
     command: celery
     depends_on:
@@ -61,8 +64,8 @@ services:
       - grobid
 
   bert:
-    image: robotreviewer-bert
-    build: ./bert
+    image: davidmcdonald93/docker-remote:robotreviewer-bert
+    # build: ./bert
     environment:
       - SCIBERT_PATH_MODEL=/var/lib/deploy/robotreviewer/data/scibert_scivocab_uncased
     volumes:
@@ -84,6 +87,6 @@ services:
       - 8070:8070 # added to run outside docker service
     restart: unless-stopped
 
-configs:
-  rr-config:
-    file: ./robotreviewer/config.json
+# configs:
+#   rr-config:
+#     file: ./robotreviewer/config.json

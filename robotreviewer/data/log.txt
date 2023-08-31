@@ -1,0 +1,923 @@
+[INFO] robotreviewer.ml_worker 2023-08-31 08:26:00,186: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:26:00,224: Loading spacy.io data for tokenization
+[INFO] robotreviewer.ml_worker 2023-08-31 08:27:02,476: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:27:02,512: Loading spacy.io data for tokenization
+[INFO] robotreviewer.ml_worker 2023-08-31 08:28:04,820: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:28:04,856: Loading spacy.io data for tokenization
+[INFO] robotreviewer.ml_worker 2023-08-31 08:29:09,579: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:29:09,614: Loading spacy.io data for tokenization
+[INFO] robotreviewer.ml_worker 2023-08-31 08:30:15,159: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:30:15,194: Loading spacy.io data for tokenization
+[INFO] robotreviewer.ml_worker 2023-08-31 08:31:21,541: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:31:21,576: Loading spacy.io data for tokenization
+[INFO] robotreviewer.ml_worker 2023-08-31 08:32:29,705: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:32:29,742: Loading spacy.io data for tokenization
+[INFO] robotreviewer.ml_worker 2023-08-31 08:33:35,346: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:33:35,382: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 08:33:40,846: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:33:40,863: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 08:33:40,865: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 08:33:40,923: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:33:40,924: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:33:40,924: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 08:35:01,637: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:35:01,688: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 08:35:22,506: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:35:23,000: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 08:35:23,003: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 08:35:24,763: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:35:25,297: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:35:25,297: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 08:36:25,452: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:36:25,486: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 08:36:30,767: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:36:30,782: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 08:36:30,784: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 08:36:30,787: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:36:30,788: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:36:30,788: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 08:36:38,203: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:36:38,238: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 08:36:43,557: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:36:43,573: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 08:36:43,574: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 08:36:43,578: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:36:43,578: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:36:43,578: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 08:36:51,256: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:36:51,290: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 08:36:56,730: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:36:56,747: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 08:36:56,748: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 08:36:56,756: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:36:56,756: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:36:56,757: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 08:37:04,317: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:37:04,353: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 08:37:09,734: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:37:09,757: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 08:37:09,759: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 08:37:09,764: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:37:09,765: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:37:09,765: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 08:37:13,256: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:37:13,291: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 08:37:21,197: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:37:21,384: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 08:37:21,388: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 08:37:24,793: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:37:24,795: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:37:24,795: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 08:37:59,300: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:37:59,336: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 08:38:04,749: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:38:04,764: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 08:38:04,766: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 08:38:04,952: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:38:04,953: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:38:04,953: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 08:38:38,908: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:38:38,944: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 08:38:46,128: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:38:46,302: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 08:38:46,306: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 08:38:47,236: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:38:47,237: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:38:47,237: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 08:39:23,199: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:39:23,236: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 08:39:28,706: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:39:30,559: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 08:39:30,561: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 08:39:30,564: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:39:30,565: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:39:30,565: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 08:40:00,437: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:40:00,473: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 08:40:05,966: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:40:05,984: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 08:40:05,986: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 08:40:06,108: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:40:06,109: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:40:06,109: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 08:40:48,763: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:40:48,983: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 08:42:29,280: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:42:29,504: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 08:42:29,506: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 08:42:29,514: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:42:29,515: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:42:29,515: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 08:42:34,608: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:42:34,645: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 08:45:01,320: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:45:01,342: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 08:45:01,344: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 08:45:01,347: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:45:01,348: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:45:01,348: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 08:45:22,299: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:45:22,334: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 08:45:27,780: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:45:27,796: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 08:45:27,797: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 08:45:27,801: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:45:27,802: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:45:27,802: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 08:45:35,303: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:45:35,340: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 08:45:40,821: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:45:40,837: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 08:45:40,839: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 08:45:40,842: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:45:40,843: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:45:40,843: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 08:45:51,932: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:45:51,968: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 08:45:57,316: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:45:57,332: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 08:45:57,334: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 08:45:57,337: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:45:57,338: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:45:57,338: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 08:46:05,131: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:46:05,166: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 08:46:10,686: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:46:10,702: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 08:46:10,704: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 08:46:10,708: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:46:10,709: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:46:10,709: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 08:46:21,486: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:46:21,521: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 08:46:26,881: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:46:26,897: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 08:46:26,899: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 08:46:26,903: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:46:26,904: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:46:26,904: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 08:46:34,680: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:46:34,715: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 08:46:40,023: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:46:40,038: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 08:46:40,040: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 08:46:40,043: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:46:40,044: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:46:40,044: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 08:46:47,631: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:46:47,665: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 08:46:53,018: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:46:53,034: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 08:46:53,036: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 08:46:53,039: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:46:53,040: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:46:53,040: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 08:47:00,423: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:47:00,458: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 08:47:05,769: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:47:05,784: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 08:47:05,877: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 08:47:05,881: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:47:05,882: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:47:05,883: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 08:47:14,155: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:47:14,193: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 08:47:19,506: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:47:19,522: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 08:47:19,524: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 08:47:19,527: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:47:19,527: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:47:19,527: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 08:47:31,279: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:47:31,314: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 08:47:36,668: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:47:36,684: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 08:47:36,686: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 08:47:36,690: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:47:36,691: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:47:36,692: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 08:47:51,126: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:47:51,161: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 08:47:56,482: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:47:56,498: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 08:47:56,499: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 08:47:56,504: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:47:56,505: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:47:56,505: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 08:48:26,528: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:48:26,565: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 08:48:32,127: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:48:32,143: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 08:48:32,144: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 08:48:32,149: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:48:32,150: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:48:32,150: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 08:49:25,019: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:49:25,054: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 08:49:30,507: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:49:30,523: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 08:49:30,525: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 08:49:30,528: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:49:30,529: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:49:30,529: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 08:50:35,801: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:50:35,838: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 08:50:41,189: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:50:41,205: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 08:50:41,207: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 08:50:41,210: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:50:41,211: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:50:41,211: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 08:51:42,907: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:51:42,944: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 08:51:48,239: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:51:48,255: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 08:51:48,257: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 08:51:48,260: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:51:48,261: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:51:48,261: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 08:52:52,839: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:52:52,874: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 08:52:58,167: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:52:58,185: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 08:52:58,187: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 08:52:58,190: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:52:58,191: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:52:58,191: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 08:54:02,753: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:54:02,788: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 08:54:08,127: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:54:08,143: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 08:54:08,145: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 08:54:08,149: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:54:08,150: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:54:08,150: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 08:55:09,797: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:55:09,833: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 08:55:15,268: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:55:15,284: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 08:55:15,286: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 08:55:15,290: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:55:15,291: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:55:15,291: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 08:56:19,900: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:56:19,936: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 08:56:25,334: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:56:25,350: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 08:56:25,352: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 08:56:25,356: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:56:25,357: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:56:25,357: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 08:57:33,404: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:57:33,441: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 08:57:38,874: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:57:38,890: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 08:57:38,892: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 08:57:38,896: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:57:38,897: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:57:38,897: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 08:58:40,551: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:58:40,588: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 08:58:46,075: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:58:46,091: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 08:58:46,093: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 08:58:46,096: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:58:46,096: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:58:46,096: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 08:59:47,837: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 08:59:47,872: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 08:59:53,327: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:59:53,343: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 08:59:53,345: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 08:59:53,349: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:59:53,350: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 08:59:53,350: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:00:54,984: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:00:55,019: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:01:00,571: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:01:00,587: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:01:00,589: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:01:00,592: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:01:00,592: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:01:00,592: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:02:15,821: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:02:15,857: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:02:21,220: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:02:21,238: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:02:21,240: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:02:21,243: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:02:21,244: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:02:21,244: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:03:33,115: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:03:33,151: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:03:38,708: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:03:38,724: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:03:38,726: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:03:38,729: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:03:38,729: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:03:38,729: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:04:46,077: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:04:46,121: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:04:51,676: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:04:51,692: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:04:51,694: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:04:51,697: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:04:51,698: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:04:51,698: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:05:53,384: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:05:53,422: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:05:58,903: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:05:58,920: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:05:58,921: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:05:58,924: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:05:58,925: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:05:58,925: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:07:00,588: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:07:00,623: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:07:06,044: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:07:06,060: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:07:06,061: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:07:06,065: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:07:06,065: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:07:06,065: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:08:17,955: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:08:17,991: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:08:27,772: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:08:28,499: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:08:28,501: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:08:28,505: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:08:28,506: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:08:28,506: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:09:21,522: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:09:23,021: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:10:02,861: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:10:03,416: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:10:03,420: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:10:03,425: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:10:03,427: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:10:03,427: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:10:11,406: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:10:11,441: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:10:18,149: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:10:18,166: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:10:18,169: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:10:18,172: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:10:18,173: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:10:18,173: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:10:25,907: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:10:25,942: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:10:31,372: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:10:31,388: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:10:31,390: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:10:31,394: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:10:31,395: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:10:31,395: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:10:33,461: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:10:33,497: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:10:39,053: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:10:39,069: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:10:39,071: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:10:39,074: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:10:39,074: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:10:39,074: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:10:41,592: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:10:41,636: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:10:47,044: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:10:47,060: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:10:47,062: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:10:47,066: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:10:47,067: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:10:47,067: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:10:50,364: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:10:50,400: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:10:55,753: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:10:55,769: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:10:55,771: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:10:55,774: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:10:55,774: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:10:55,775: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:11:00,646: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:11:00,682: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:11:06,054: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:11:06,070: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:11:06,072: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:11:06,076: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:11:06,077: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:11:06,077: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:11:14,142: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:11:14,175: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:11:19,559: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:11:19,575: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:11:19,577: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:11:19,580: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:11:19,581: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:11:19,581: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:11:36,420: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:11:36,459: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:11:42,000: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:11:42,016: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:11:42,018: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:11:42,021: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:11:42,022: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:11:42,022: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:12:11,537: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:12:11,572: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:12:16,852: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:12:16,868: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:12:16,870: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:12:16,874: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:12:16,875: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:12:16,875: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:13:09,779: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:13:09,815: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:13:15,260: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:13:15,276: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:13:15,278: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:13:15,282: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:13:15,282: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:13:15,282: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:14:16,984: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:14:17,028: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:14:22,540: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:14:22,556: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:14:22,558: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:14:22,561: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:14:22,563: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:14:22,563: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:15:24,260: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:15:24,296: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:15:29,713: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:15:29,729: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:15:29,731: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:15:29,734: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:15:29,735: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:15:29,735: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:16:34,796: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:16:34,834: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:16:40,199: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:16:40,216: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:16:40,218: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:16:40,221: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:16:40,222: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:16:40,222: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:17:41,888: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:17:41,926: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:17:47,728: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:17:47,745: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:17:47,746: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:17:47,750: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:17:47,751: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:17:47,751: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:18:49,425: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:18:49,460: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:18:55,213: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:18:55,230: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:18:55,232: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:18:55,235: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:18:55,236: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:18:55,236: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:19:56,920: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:19:56,955: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:20:02,316: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:20:02,332: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:20:02,334: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:20:02,338: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:20:02,339: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:20:02,340: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:21:04,420: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:21:04,456: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:21:09,990: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:21:10,006: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:21:10,008: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:21:10,011: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:21:10,012: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:21:10,012: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:22:15,732: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:22:15,775: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:22:21,409: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:22:21,425: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:22:21,428: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:22:21,433: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:22:21,434: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:22:21,434: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:23:26,004: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:23:26,040: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:23:31,461: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:23:31,476: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:23:31,478: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:23:31,482: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:23:31,483: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:23:31,483: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:24:33,183: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:24:33,218: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:24:38,565: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:24:38,581: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:24:38,582: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:24:38,585: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:24:38,586: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:24:38,586: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:25:42,579: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:25:42,616: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:25:48,013: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:25:48,029: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:25:48,031: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:25:48,034: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:25:48,034: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:25:48,035: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:26:49,753: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:26:49,792: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:26:55,195: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:26:55,211: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:26:55,213: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:26:55,216: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:26:55,217: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:26:55,217: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:27:56,884: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:27:56,919: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:28:02,304: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:28:02,320: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:28:02,322: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:28:02,325: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:28:02,326: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:28:02,326: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:29:42,935: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:29:42,973: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:29:49,220: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:29:49,239: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:29:49,241: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:29:49,297: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:29:49,298: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:29:49,299: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:30:22,387: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:30:22,428: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:30:28,102: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:30:28,118: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:30:28,120: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:30:28,125: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:30:28,125: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:30:28,125: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:30:35,908: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:30:35,945: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:30:41,377: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:30:41,393: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:30:41,395: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:30:41,398: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:30:41,399: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:30:41,399: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:30:50,032: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:30:50,069: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:30:55,471: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:30:55,488: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:30:55,489: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:30:55,494: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:30:55,494: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:30:55,494: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:31:03,480: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:31:03,515: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:31:08,938: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:31:08,953: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:31:08,955: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:31:08,959: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:31:08,959: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:31:08,959: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:31:12,292: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:31:12,326: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:31:17,694: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:31:17,709: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:31:17,711: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:31:17,715: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:31:17,716: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:31:17,716: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:31:22,633: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:31:22,669: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:31:28,176: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:31:28,192: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:31:28,194: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:31:28,197: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:31:28,197: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:31:28,197: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:31:36,293: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:31:36,333: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:31:41,697: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:31:41,713: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:31:41,715: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:31:41,720: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:31:41,721: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:31:41,721: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:31:56,231: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:31:56,266: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:32:01,647: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:32:01,662: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:32:01,664: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:32:01,669: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:32:01,670: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:32:01,670: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:32:28,936: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:32:28,970: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:32:34,301: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:32:34,317: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:32:34,319: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:32:34,324: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:32:34,325: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:32:34,325: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:33:27,327: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:33:27,363: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:33:33,189: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:33:33,206: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:33:33,208: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:33:33,212: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:33:33,213: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:33:33,213: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:34:34,914: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:34:34,951: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:34:42,952: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:34:42,968: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:34:43,134: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:34:43,347: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:34:43,348: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:34:43,348: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:34:58,357: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:34:58,394: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:35:04,418: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:35:04,434: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:35:04,435: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:35:04,440: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:35:04,441: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:35:04,441: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:35:11,712: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:35:11,747: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:35:17,160: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:35:17,176: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:35:17,178: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:35:17,181: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:35:17,182: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:35:17,182: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:35:19,245: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:35:19,283: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:35:24,651: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:35:24,667: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:35:24,668: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:35:24,671: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:35:24,672: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:35:24,672: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:35:27,164: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:35:27,202: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:35:32,546: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:35:32,562: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:35:32,564: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:35:32,567: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:35:32,569: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:35:32,569: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:35:35,832: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:35:35,867: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:35:41,258: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:35:41,274: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:35:41,275: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:35:41,279: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:35:41,280: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:35:41,280: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:35:46,203: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:35:46,238: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:35:51,531: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:35:51,546: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:35:51,548: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:35:51,552: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:35:51,553: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:35:51,553: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:35:59,676: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:35:59,712: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:36:05,048: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:36:05,064: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:36:05,066: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:36:05,070: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:36:05,070: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:36:05,070: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:36:19,537: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:36:19,572: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:36:24,961: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:36:24,977: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:36:24,979: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:36:24,983: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:36:24,983: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:36:24,983: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:36:52,250: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:36:52,286: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:36:57,591: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:36:57,606: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:36:57,608: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:36:57,612: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:36:57,613: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:36:57,613: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:37:50,546: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:37:50,582: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:37:55,990: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:37:56,006: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:37:56,008: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:37:56,011: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:37:56,012: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:37:56,012: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:38:57,683: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:38:57,718: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:39:03,047: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:39:03,063: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:39:03,065: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:39:03,069: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:39:03,069: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:39:03,069: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:40:04,753: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:40:04,791: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:40:10,106: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:40:10,122: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:40:10,124: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:40:10,128: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:40:10,129: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:40:10,129: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:41:11,778: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:41:11,813: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:41:17,167: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:41:17,184: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:41:17,186: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:41:17,189: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:41:17,189: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:41:17,189: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:42:18,880: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:42:18,915: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:42:24,306: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:42:24,322: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:42:24,324: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:42:24,327: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:42:24,327: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:42:24,327: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:43:26,017: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:43:26,052: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:43:31,369: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:43:31,384: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:43:31,386: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:43:31,391: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:43:31,392: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:43:31,392: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:44:35,769: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:44:35,811: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:44:41,168: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:44:41,184: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:44:41,186: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:44:41,242: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:44:41,243: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:44:41,243: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:45:55,030: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:45:55,068: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:46:00,451: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:46:00,467: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:46:00,469: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:46:00,472: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:46:00,472: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:46:00,472: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:47:04,602: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:47:04,642: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:47:09,962: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:47:09,979: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:47:09,981: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:47:09,984: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:47:09,985: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:47:09,985: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:48:13,917: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:48:13,952: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:48:19,537: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:48:19,554: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:48:19,556: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:48:19,560: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:48:19,561: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:48:19,561: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:52:55,331: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:52:55,369: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:53:01,799: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:53:01,816: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:53:01,818: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:53:03,975: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:53:03,976: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:53:03,976: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 09:55:07,774: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 09:55:07,813: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 09:55:14,362: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:55:14,380: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 09:55:14,382: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 09:55:14,430: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:55:14,430: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 09:55:14,430: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 10:03:10,035: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 10:03:10,076: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 10:03:16,780: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 10:03:16,798: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 10:03:16,800: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 10:03:16,856: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 10:03:16,857: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 10:03:16,857: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 10:05:28,089: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 10:05:28,156: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 10:05:33,713: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 10:05:33,730: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 10:05:33,732: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 10:05:36,064: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 10:05:38,128: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 10:05:40,176: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 10:05:42,245: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 10:05:44,398: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 10:05:46,544: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 10:05:48,668: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 10:05:50,697: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 10:05:52,753: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 10:05:54,828: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 10:05:56,911: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 10:05:58,944: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 10:06:00,977: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 10:06:03,041: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 10:06:05,081: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 10:06:07,183: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 10:06:09,239: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 10:06:11,320: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 10:06:13,377: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 10:06:15,430: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 10:06:17,491: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 10:06:19,587: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 10:06:21,621: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 10:06:23,709: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 10:06:25,810: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 10:06:27,889: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 10:06:29,936: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 10:06:32,001: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 10:06:34,071: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 10:06:36,150: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 10:06:38,220: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 10:06:40,303: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 10:06:42,336: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 10:06:44,365: Starting new HTTP connection (1): grobid:8070
+[INFO] robotreviewer.ml_worker 2023-08-31 10:06:52,769: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 10:06:52,805: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 10:06:58,150: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 10:06:58,166: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 10:06:58,168: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 10:06:58,172: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 10:06:58,173: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 10:06:58,174: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 10:11:00,236: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 10:11:00,278: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 10:11:06,735: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 10:11:06,752: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 10:11:06,754: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 10:11:06,868: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 10:11:06,869: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 10:11:06,869: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 10:11:06,894: Loading the robots...
+[DEBUG] root 2023-08-31 10:11:06,894: Loading PICO LSTM-CRF
+[INFO] robotreviewer.ml.ner_base_model 2023-08-31 10:11:14,333: Initializing tf session
+[INFO] robotreviewer.ml.ner_base_model 2023-08-31 10:11:14,518: Reloading the latest trained model...
+[INFO] tensorflow 2023-08-31 10:11:14,518: Restoring parameters from /var/lib/deploy/robotreviewer/data/pico_spans/model.weights/
+[DEBUG] root 2023-08-31 10:11:14,576: PICO classifiers loaded
+[DEBUG] robotreviewer.ml.classifier 2023-08-31 10:13:43,642: Loading model /var/lib/deploy/robotreviewer/data/bias/bias_sent_level.npz...
+[DEBUG] robotreviewer.ml.classifier 2023-08-31 10:13:43,860: Model /var/lib/deploy/robotreviewer/data/bias/bias_sent_level.npz loaded
+[DEBUG] robotreviewer.ml.classifier 2023-08-31 10:13:43,860: Loading model /var/lib/deploy/robotreviewer/data/bias/bias_doc_level.npz...
+[DEBUG] robotreviewer.ml.classifier 2023-08-31 10:13:44,728: Model /var/lib/deploy/robotreviewer/data/bias/bias_doc_level.npz loaded
+[DEBUG] root 2023-08-31 10:13:44,728: Loading PICO classifiers
+[DEBUG] robotreviewer.ml.classifier 2023-08-31 10:13:44,728: Loading model /var/lib/deploy/robotreviewer/data/pico/P_model.npz...
+[DEBUG] robotreviewer.ml.classifier 2023-08-31 10:13:44,739: Model /var/lib/deploy/robotreviewer/data/pico/P_model.npz loaded
+[DEBUG] robotreviewer.ml.classifier 2023-08-31 10:13:44,739: Loading model /var/lib/deploy/robotreviewer/data/pico/I_model.npz...
+[DEBUG] robotreviewer.ml.classifier 2023-08-31 10:13:44,744: Model /var/lib/deploy/robotreviewer/data/pico/I_model.npz loaded
+[DEBUG] robotreviewer.ml.classifier 2023-08-31 10:13:44,744: Loading model /var/lib/deploy/robotreviewer/data/pico/O_model.npz...
+[DEBUG] robotreviewer.ml.classifier 2023-08-31 10:13:44,748: Model /var/lib/deploy/robotreviewer/data/pico/O_model.npz loaded
+[DEBUG] root 2023-08-31 10:13:44,748: PICO classifiers loaded
+[DEBUG] root 2023-08-31 10:13:44,748: Loading IDF weights
+[DEBUG] root 2023-08-31 10:13:44,757: IDF weights loaded
+[DEBUG] robotreviewer.ml.classifier 2023-08-31 10:13:46,115: Loading model /var/lib/deploy/robotreviewer/data/rct/rct_svm_weights.npz...
+[DEBUG] robotreviewer.ml.classifier 2023-08-31 10:13:46,157: Model /var/lib/deploy/robotreviewer/data/rct/rct_svm_weights.npz loaded
+[INFO] robotreviewer.ml_worker 2023-08-31 10:13:52,491: Robots loaded successfully! Ready...
+[INFO] robotreviewer.ml_worker 2023-08-31 11:15:37,374: RobotReviewer machine learning tasks starting
+[DEBUG] robotreviewer.textprocessing.tokenizer 2023-08-31 11:15:37,421: Loading spacy.io data for tokenization
+[INFO] summarizer.preprocessing.cleaner 2023-08-31 11:15:43,902: 'pattern' package not found; tag filters are not available for English
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 11:15:43,919: Connecting to Grobid...
+[DEBUG] urllib3.connectionpool 2023-08-31 11:15:43,921: Starting new HTTP connection (1): grobid:8070
+[DEBUG] urllib3.connectionpool 2023-08-31 11:15:44,041: http://grobid:8070 "GET / HTTP/1.1" 200 None
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 11:15:44,041: <Response [200]>
+[INFO] robotreviewer.textprocessing.pdfreader 2023-08-31 11:15:44,041: Connected to Grobid service.
+[INFO] robotreviewer.ml_worker 2023-08-31 11:15:44,060: Loading the robots...
+[DEBUG] root 2023-08-31 11:15:44,060: Loading PICO LSTM-CRF
+[INFO] robotreviewer.ml.ner_base_model 2023-08-31 11:15:48,784: Initializing tf session
+[INFO] robotreviewer.ml.ner_base_model 2023-08-31 11:15:48,976: Reloading the latest trained model...
+[INFO] tensorflow 2023-08-31 11:15:48,976: Restoring parameters from /var/lib/deploy/robotreviewer/data/pico_spans/model.weights/
+[DEBUG] root 2023-08-31 11:15:49,036: PICO classifiers loaded
+[DEBUG] robotreviewer.ml.classifier 2023-08-31 11:15:53,845: Loading model /var/lib/deploy/robotreviewer/data/bias/bias_sent_level.npz...
+[DEBUG] robotreviewer.ml.classifier 2023-08-31 11:15:54,041: Model /var/lib/deploy/robotreviewer/data/bias/bias_sent_level.npz loaded
+[DEBUG] robotreviewer.ml.classifier 2023-08-31 11:15:54,042: Loading model /var/lib/deploy/robotreviewer/data/bias/bias_doc_level.npz...
+[DEBUG] robotreviewer.ml.classifier 2023-08-31 11:15:54,918: Model /var/lib/deploy/robotreviewer/data/bias/bias_doc_level.npz loaded
+[DEBUG] root 2023-08-31 11:15:54,918: Loading PICO classifiers
+[DEBUG] robotreviewer.ml.classifier 2023-08-31 11:15:54,918: Loading model /var/lib/deploy/robotreviewer/data/pico/P_model.npz...
+[DEBUG] robotreviewer.ml.classifier 2023-08-31 11:15:54,922: Model /var/lib/deploy/robotreviewer/data/pico/P_model.npz loaded
+[DEBUG] robotreviewer.ml.classifier 2023-08-31 11:15:54,922: Loading model /var/lib/deploy/robotreviewer/data/pico/I_model.npz...
+[DEBUG] robotreviewer.ml.classifier 2023-08-31 11:15:54,925: Model /var/lib/deploy/robotreviewer/data/pico/I_model.npz loaded
+[DEBUG] robotreviewer.ml.classifier 2023-08-31 11:15:54,925: Loading model /var/lib/deploy/robotreviewer/data/pico/O_model.npz...
+[DEBUG] robotreviewer.ml.classifier 2023-08-31 11:15:54,928: Model /var/lib/deploy/robotreviewer/data/pico/O_model.npz loaded
+[DEBUG] root 2023-08-31 11:15:54,928: PICO classifiers loaded
+[DEBUG] root 2023-08-31 11:15:54,928: Loading IDF weights
+[DEBUG] root 2023-08-31 11:15:54,935: IDF weights loaded
+[DEBUG] robotreviewer.ml.classifier 2023-08-31 11:15:55,758: Loading model /var/lib/deploy/robotreviewer/data/rct/rct_svm_weights.npz...
+[DEBUG] robotreviewer.ml.classifier 2023-08-31 11:15:55,787: Model /var/lib/deploy/robotreviewer/data/rct/rct_svm_weights.npz loaded
+[INFO] robotreviewer.ml_worker 2023-08-31 11:16:00,353: Robots loaded successfully! Ready...
