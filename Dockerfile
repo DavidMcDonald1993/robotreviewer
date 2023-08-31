@@ -30,17 +30,23 @@ RUN xargs -a /tmp/apt-requirements.txt apt-get install -y --no-install-recommend
 RUN mkdir -p /etc/pki/tls/certs && \
     ln -s /etc/ssl/certs/ca-certificates.crt /etc/pki/tls/certs/ca-bundle.crt
 
-RUN chown -R deploy.deploy /var/lib/deploy/
+RUN chown -R deploy /var/lib/deploy/
 
-USER deploy
+# USER deploy
+
 # install Anaconda
 RUN aria2c -s 16 -x 16 -k 30M https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -o /var/lib/deploy/Anaconda.sh
+# RUN wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -o /var/lib/deploy/Anaconda.sh
+
+# seems to install to /root/miniconda
 RUN cd /var/lib/deploy && bash Anaconda.sh -b && rm -rf Anaconda.sh
-ENV PATH=/var/lib/deploy/miniconda3/bin:$PATH
+# ENV PATH="/var/lib/deploy/miniconda3/bin:${PATH}"
+ENV PATH="/root/miniconda3/bin:${PATH}"
 ADD robotreviewer_env.yml tmp/robotreviewer_env.yml
 RUN conda env create -f tmp/robotreviewer_env.yml
 # from https://stackoverflow.com/questions/37945759/condas-source-activate-virtualenv-does-not-work-within-dockerfile
-ENV PATH /var/lib/deploy/miniconda3/envs/robotreviewer/bin:$PATH
+# ENV PATH /var/lib/deploy/miniconda3/envs/robotreviewer/bin:$PATH
+ENV PATH /root/miniconda3/envs/robotreviewer/bin:$PATH
 RUN python -m nltk.downloader punkt stopwords
 #RUN python -m spacy.en.download all
 RUN python -m spacy download en
@@ -61,9 +67,9 @@ ADD entrypoint.sh /var/lib/deploy/
 ADD clean_uploaded_pdfs.py /var/lib/deploy/
 ADD crontab /etc/cron.d/crontab
 ADD robotreviewer /var/lib/deploy/robotreviewer
-RUN chown -R deploy.deploy /var/lib/deploy/robotreviewer
+# RUN chown -R deploy.deploy /var/lib/deploy/robotreviewer
 
-USER deploy
+# USER deploy
 
 COPY --from=build-stage /app/static /var/lib/deploy/robotreviewer/static
 
@@ -74,4 +80,5 @@ USER root
 RUN pip install gunicorn gevent
 RUN chmod +x /var/lib/deploy/entrypoint.sh
 
-ENTRYPOINT [ "./var/lib/deploy/entrypoint.sh" ]
+# ENTRYPOINT [ "./var/lib/deploy/entrypoint.sh" ]
+ENTRYPOINT [ "/var/lib/deploy/entrypoint.sh" ]

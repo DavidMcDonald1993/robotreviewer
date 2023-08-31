@@ -1,4 +1,5 @@
-version: "3.9"
+# version: "3.9"
+version: "3.7"
 
 services:
 
@@ -70,12 +71,17 @@ services:
 
   rabbitmq:
     image: rabbitmq:3-alpine
+    ports:
+      - 5672:5672 
+      - 15672:15672
     restart: unless-stopped
     volumes:
       - ./rabbitmq/:/etc/rabbitmq/
 
   grobid:
     image: grobid/grobid:0.6.2
+    ports:
+      - 8070:8070 # added to run outside docker service
     restart: unless-stopped
 
 configs:
